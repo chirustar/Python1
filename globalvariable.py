@@ -1,7 +1,7 @@
 discount = 10
 productid = 101
 prodName="Laptop"
-price=50000
+price=50000000
 
 def displayProductDetails():
     global discount
